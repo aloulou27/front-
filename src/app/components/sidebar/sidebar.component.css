@@ -1,0 +1,16 @@
+.image-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  img {
+    width: 200px; /* Set the desired width for the image */
+    height: 70px; /* Maintain aspect ratio */
+    margin-right: 10px; /* Adjust the space between the image and the title */
+    margin-left: -30px;
+  }
+  
+  h3 {
+    margin: 0; /* Remove default margin */
+    margin-left: 60px;
+  }
